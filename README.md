@@ -4,6 +4,9 @@
 # Github: https://github.com/drus-jc
 # Tujuan Pengguna: Untuk user yang baru pindah dari windows ke linux, dan bagi siapa saja yang membutuhkan printah maintenance yang instan tanpa perlu mengetik perintah apt update, apt list --upgradable, apt upgrade, snap refresh, apt autoremove, apt autoclean, apt clean.
  
+# Unduh atau clone repo
+https: https://github.com/drus-jc/maintenance-umum.git 
+ssh: git@github.com:drus-jc/maintenance-umum.git
 # Cara menjalankan: berikan ijin agar bisa berjalan | chmod +x path/to/your/pach/maintenance.sh
 # Cara pertama: Pergi ke direktory tempat menyimpan maintenance.sh | lalu berikan perintah ./maintenance.sh
 # Cara kedua: path/to/pach/maintenance.sh
